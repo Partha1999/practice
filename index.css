@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 10px;
+}
+h1{
+    font-size: 30px;
+}
+.orange{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    margin: 0px ;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5%;
+}
+.male-position{
+    width: 50%;
+    padding-right: 20%;
+
+}
+
+section{
+    display: flex;
+}
+.female-position{
+    padding-left: 0%;
+    width: 50%;
+
+}
+.top{
+    margin-bottom: 20px;
+    
+}
+.middle{
+    background-image: url(eat-healthy-main/images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.recipe{
+    text-align: center;
+    padding: 40px 500px 20px;
+}
